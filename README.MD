@@ -106,3 +106,6 @@ O projeto contém testes unitários de inserção para garantir o funcionamento 
 
 go test -v -run TestCreateAccount | go test -v -run TestCreateTransaction
 
+-- Abaixo uma imagem de como deve ficar a estrutura da aplicação para que ela possa rodar com sucesso.
+
+![Captura de tela](./screenshot.png)
