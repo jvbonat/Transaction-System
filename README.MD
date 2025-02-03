@@ -104,6 +104,5 @@ curl --location "http://localhost:8080/api/transactions" \
 
 O projeto contém testes unitários de inserção para garantir o funcionamento correto da API. Para executar os testes, use:
 
-go test -v -run go test -v -run TestCreateAccount
-go test -v -run go test -v -run TestCreateTransaction
+go test -v -run TestCreateAccount | go test -v -run TestCreateTransaction
 
