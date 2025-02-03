@@ -20,8 +20,9 @@ Este é o repositório do **Desafio Transações**, um sistema para gerenciar tr
 1. **Clone o repositório**:
    Clone o repositório do projeto para o seu ambiente local.
    ```bash
-   git clone https://github.com/seu-usuario/transactions-challenge.git
+   mkdir transactions-challenge
    cd transactions-challenge
+   git clone https://github.com/jvbonat/Transaction-System.git
 Configure o banco de dados MySQL: Certifique-se de que o MySQL está instalado e em execução na sua máquina.
 
 2. **Configure o Banco de Dados MySQL**
